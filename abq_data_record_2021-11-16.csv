@@ -1,0 +1,5 @@
+Date,Time,Technician,Lab,Plot,Seed Sample,Humidity,Light,Temperature,Equipment Fault,Plants,Blossoms,Fruit,Min Height,Max Height,Med Height,Notes
+2021-11-16,16:00,Jamilson do Nacimento,A,2,azul,0.75,0.15,4.13,False,2,4,0,0.17,0.21,0.24,"Este foi um teste
+"
+2021-12-29,12:00,Jamilson,B,2,azul,0.5,0.02,4.01,False,1,2,0,0.01,0.02,0.03,"Olá teste 2
+"
