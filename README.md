@@ -28,4 +28,4 @@ Função de salvamento (The Save Callback)
 
 * Resetar o formulário para o próximo arquivo
 
-* Criararquivo CSV contendo os dados indormados no formulário
+* Criar arquivo CSV contendo os dados indormados no formulário
